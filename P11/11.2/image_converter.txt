@@ -1,0 +1,1 @@
+python image_converter.py alien.png 1 >alien.py  
